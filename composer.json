@@ -1,5 +1,5 @@
 {
-    "name": "vin/querylist-rule-baidu",
+    "name": "wanglu/querylist-rule-baidu",
     "description": "QueryList Plugin: Baidu searcher. QueryList百度搜索插件",
     "require": {
         "PHP":">=7.0"
