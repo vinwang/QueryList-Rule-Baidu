@@ -1,0 +1,22 @@
+{
+    "name": "vin/QueryList-Rule-Baidu",
+    "description": "QueryList Plugin: Baidu searcher. QueryList百度搜索插件",
+    "require": {
+        "PHP":">=7.0"
+    },
+    "require-dev": {
+        "jaeger/querylist": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "QL\\Ext\\": ""
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vin",
+            "email": "wlhome90@gmail.com"
+        }
+    ]
+}
